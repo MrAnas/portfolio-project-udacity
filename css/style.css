@@ -23,12 +23,37 @@
 		padding: 0px;
 	} 
 
+	body{
+		padding-bottom: 10px;
+	}
 
 
 /************* Layouts *************/
+h1,h2,h3,h4,h5,h6,p,a{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
 
+.banner img{
+	width: 100%;
+}
+.primary-title{
+	color:#7d97ad;
+}
+.secondary-title{
+	color: #3d3c49;
+}
 
 /************* General Styles *************/
+.navbar {
+	
+	border-bottom: 3px solid #7d97ad;
+}
+.navbar-text{
+	color: #2d3c49;
+}
+.navbar-brand img{
+	width: 80px
+}
 
 
 /************* Custom Classes *************/
